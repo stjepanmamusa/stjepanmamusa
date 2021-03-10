@@ -1,4 +1,8 @@
-### Hi there 👋
+### Bujrum borac 👋
+### Welcome fighter 👋
+
+🔭 I’m currently working on Sensor Simulation Service
+🌱 I’m currently learning TypeScript
 
 <!--
 **smamusa/smamusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
