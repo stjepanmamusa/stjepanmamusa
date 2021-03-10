@@ -1,7 +1,6 @@
-### Bujrum borac 👋
-### Welcome fighter 👋
+### Bujrum borac 👋 Welcome borac
 
-🔭 I’m currently working on Sensor Simulation Service
+🔭 I’m currently working on Sensor Simulation Service\
 🌱 I’m currently learning TypeScript
 
 <!--
