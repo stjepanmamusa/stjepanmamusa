@@ -1,4 +1,4 @@
-### Bujrum borac 👋 Welcome borac
+### Welcome 👋 Wilkommen
 
 🔭 I’m currently working on Sensor Simulation Service\
 🌱 I’m currently learning TypeScript
