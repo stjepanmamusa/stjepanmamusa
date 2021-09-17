@@ -3,7 +3,7 @@
 ⭐
 ![followers](https://img.shields.io/github/followers/smamusa) 
 🐱‍👤
-![stackoverflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/5290070?style=plastic)
+![stackoverflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/5290070?style=flat)
 
 🔭 I’m currently working on Sensor Simulation Service\
 🌱 I’m currently learning TypeScript
