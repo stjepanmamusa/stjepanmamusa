@@ -1,7 +1,7 @@
 ### Welcome 👋 Wilkommen
 
 ![followers](https://img.shields.io/github/followers/smamusa?style=flat) 
-![stackoverflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/5290070?style=flat)
+![stackoverflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/5290070?style=plastic)
 ![mystats-api](https://img.shields.io/endpoint?style=flat&url=https://mystats-api.herokuapp.com/)
 
 🔭 I’m currently working on Sensor Simulation Service\
