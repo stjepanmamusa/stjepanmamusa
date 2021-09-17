@@ -3,6 +3,7 @@
 ![followers](https://img.shields.io/github/followers/smamusa?style=flat) 
 ![stackoverflow reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2Fstackrep)
 ![mystats-api](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2F)
+![matlab-answers-rank](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2Fmatlab-answers-rank)
 
 🔭 I’m currently working on Sensor Simulation Service\
 🌱 I’m currently learning TypeScript
