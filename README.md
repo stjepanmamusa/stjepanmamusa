@@ -1,7 +1,6 @@
-# 👋 Welcome adventurer!
-> Rest here weary traveler, for great adventures lie ahead... <img width="50px" height="50px" src="bonefire.gif">
-> - Unknown
-
+# 👋 Welcome adventurer !
+> Rest here weary traveler, for great adventures lie ahead... <img width="50px" height="50px" src="bonefire.gif">  
+_Unknown_  
 ### Stats
 ![mystats-api](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2F)
 ![followers](https://img.shields.io/github/followers/smamusa?style=flat)
@@ -15,7 +14,7 @@
 ![matlab-cody-score](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2Fapi%2Fmatlab%2Fcody%2Fscore)  
 
 ### Current objectives
-🔭 I’m currently working on Sensor Simulation Service
+🔭 I’m currently working on Sensor Simulation Service  
 🌱 I’m currently learning TypeScript
 
 <!--
