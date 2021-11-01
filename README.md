@@ -1,6 +1,8 @@
-# 👋 Welcome weary adventurer !
-## You've done well to reach this bonefire, rest here ! <img width="50px" height="50px" src="bonefire.gif">
+# 👋 Welcome adventurer!
+> Rest here weary traveler, for great adventures lie ahead... <img width="50px" height="50px" src="bonefire.gif">
+> - Unknown
 
+### Stats
 ![mystats-api](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2F)
 ![followers](https://img.shields.io/github/followers/smamusa?style=flat)
 ![profile views](https://komarev.com/ghpvc/?username=smamusa&style=flat)
@@ -12,8 +14,8 @@
 ![matlab-cody-rank](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2Fapi%2Fmatlab%2Fcody)
 ![matlab-cody-score](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2Fapi%2Fmatlab%2Fcody%2Fscore)  
 
-
-🔭 I’m currently working on Sensor Simulation Service\
+### Current objectives
+🔭 I’m currently working on Sensor Simulation Service
 🌱 I’m currently learning TypeScript
 
 <!--
@@ -30,3 +32,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+_Bone fire GIF is the work of_ [Joe Williamson](http://joecreates.co.uk/art/)
