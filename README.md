@@ -1,8 +1,5 @@
-### 👋 Welcome weary adventurer !
-## You've done well to reach this bonefire, rest here !
-<p align="center">
-  <img src="bonefire.gif">
-</p>
+# 👋 Welcome weary adventurer !
+## You've done well to reach this bonefire, rest here ! <img width="50px" height="50px" src="bonefire.gif">
 
 ![mystats-api](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2F)
 ![followers](https://img.shields.io/github/followers/smamusa?style=flat)
