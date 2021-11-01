@@ -1,7 +1,7 @@
 # 👋 Welcome adventurer !
-> <img width="50px" height="50px" src="bonefire.gif">
+> <img width="50px" height="50px" src="bonefire.gif">  
 > Rest here weary traveler, for great adventures lie ahead...  
-_Unknown_  
+> _Unknown_  
 ### Stats
 ![mystats-api](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2F)
 ![followers](https://img.shields.io/github/followers/smamusa?style=flat)
