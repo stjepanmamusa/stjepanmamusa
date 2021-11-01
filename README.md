@@ -4,12 +4,10 @@
 _Unknown_  
 ### Stats
 _These are here mainly for the sake of testing a hobby project_ [mystats-api](https://github.com/smamusa/mystats-api)
-#### General
 ![mystats-api](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2F)
 ![followers](https://img.shields.io/github/followers/smamusa?style=flat)
 ![profile views](https://komarev.com/ghpvc/?username=smamusa&style=flat)
-![stackoverflow reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2Fapi%2Fstackexchange%2Fstackoverflow%2Freputation)
-#### MATLAB
+![stackoverflow reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2Fapi%2Fstackexchange%2Fstackoverflow%2Freputation)  
 ![matlab-answers-rank](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2Fapi%2Fmatlab%2Fanswers)
 ![matlab-answers-reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2Fapi%2Fmatlab%2Fanswers%2Freputation)  
 ![matlab-fileexchange-rank](https://img.shields.io/endpoint?style=flat&&url=https%3A%2F%2Fmystats-api.herokuapp.com%2Fapi%2Fmatlab%2Ffileexchange)
