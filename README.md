@@ -7,7 +7,7 @@ _Unknown_
 ![mystats-api](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2F)
 ![followers](https://img.shields.io/github/followers/smamusa?style=flat)
 ![profile views](https://komarev.com/ghpvc/?username=smamusa&style=flat)
-![stackoverflow reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2Fapi%2Fstackexchange%2Fstackoverflow%2Freputation)  
+![stackoverflow reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2Fapi%2Fstackexchange%2Fstackoverflow%2Freputation)
 #### MATLAB
 ![matlab-answers-rank](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2Fapi%2Fmatlab%2Fanswers)
 ![matlab-answers-reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2Fapi%2Fmatlab%2Fanswers%2Freputation)  
