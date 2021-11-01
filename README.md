@@ -1,5 +1,6 @@
 ### Welcome 👋 Wilkommen
 
+![mystats-api](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2F)
 ![followers](https://img.shields.io/github/followers/smamusa?style=flat)
 ![profile views](https://komarev.com/ghpvc/?username=smamusa&style=flat)
 ![stackoverflow reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2Fapi%2Fstackexchange%2Fstackoverflow%2Freputation)  
@@ -9,8 +10,6 @@
 ![matlab-fileexchange-reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2Fapi%2Fmatlab%2Ffileexchange%2Freputation)  
 ![matlab-cody-rank](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2Fapi%2Fmatlab%2Fcody)
 ![matlab-cody-score](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2Fapi%2Fmatlab%2Fcody%2Fscore)  
-![mystats-api](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api.herokuapp.com%2F)
-
 
 
 🔭 I’m currently working on Sensor Simulation Service\
