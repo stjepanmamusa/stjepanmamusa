@@ -9,6 +9,8 @@ _These are here mainly for the sake of testing a hobby project_ [mystats-api](ht
 ![followers](https://img.shields.io/github/followers/smamusa?style=flat)
 ![profile views](https://komarev.com/ghpvc/?username=smamusa&style=flat)
 ![stackoverflow reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fprofile-statistics-api.azurewebsites.net%2Fapi%2Fstackexchange%2Fstackoverflow%2Freputation)  
+![electronics reputation](https://img.shields.io/stackexchange/electronics/r/158180)
+![super user reputation](https://img.shields.io/stackexchange/superuser/r/1446497)
 ![matlab-answers-rank](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fprofile-statistics-api.azurewebsites.net%2Fapi%2Fmatlab%2Fanswers)
 ![matlab-answers-reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fprofile-statistics-api.azurewebsites.net%2Fapi%2Fmatlab%2Fanswers%2Freputation)  
 ![matlab-fileexchange-rank](https://img.shields.io/endpoint?style=flat&&url=https%3A%2F%2Fprofile-statistics-api.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange)
