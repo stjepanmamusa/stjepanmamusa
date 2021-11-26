@@ -13,6 +13,9 @@ _These are here mainly for the sake of testing a hobby project_ [mystats-api](ht
 ![matlab-answers-reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fprofile-statistics-api.azurewebsites.net%2Fapi%2Fmatlab%2Fanswers%2Freputation)  
 ![matlab-fileexchange-rank](https://img.shields.io/endpoint?style=flat&&url=https%3A%2F%2Fprofile-statistics-api.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange)
 ![matlab-fileexchange-reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fprofile-statistics-api.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange%2Freputation)  
+![matlab-fileexchange-average-rating](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fprofile-statistics-api.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange%2FaverageRating)
+![matlab-fileexchange-contributions](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fprofile-statistics-api.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange%2Fcontributions)
+![matlab-fileexchange-downloads](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fprofile-statistics-api.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange%2Fdownloads)  
 ![matlab-cody-rank](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fprofile-statistics-api.azurewebsites.net%2Fapi%2Fmatlab%2Fcody)
 ![matlab-cody-score](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fprofile-statistics-api.azurewebsites.net%2Fapi%2Fmatlab%2Fcody%2Fscore)  
 
