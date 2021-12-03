@@ -5,7 +5,7 @@ _Unknown_
 ### Stats
 _These are here mainly for the sake of testing a hobby project_ [mystats-api](https://github.com/smamusa/mystats-api)  
   
-![mystats-api](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api-7f4la.ondigitalocean.app%2F/api)
+![mystats-api](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api-7f4la.ondigitalocean.app%2Fapi)
 ![followers](https://img.shields.io/github/followers/smamusa?style=flat)
 ![profile views](https://komarev.com/ghpvc/?username=smamusa&style=flat)  
 ![stackoverflow reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api-7f4la.ondigitalocean.app%2Fapi%2Fstackexchange%2Fstackoverflow%2Freputation)
