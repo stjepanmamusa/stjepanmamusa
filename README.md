@@ -5,21 +5,21 @@ _Unknown_
 ### Stats
 _These are here mainly for the sake of testing a hobby project_ [mystats-api](https://github.com/smamusa/mystats-api)  
   
-![mystats-api](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api-7f4la.ondigitalocean.app%2Fapi)
+![mystats-api](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi)
 ![followers](https://img.shields.io/github/followers/smamusa?style=flat)
 ![profile views](https://komarev.com/ghpvc/?username=smamusa&style=flat)  
-![stackoverflow reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api-7f4la.ondigitalocean.app%2Fapi%2Fstackexchange%2Fstackoverflow%2Freputation)
+![stackoverflow reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fstackexchange%2Fstackoverflow%2Freputation)
 ![electronics reputation](https://img.shields.io/stackexchange/electronics/r/158180?style=flat)
 ![super user reputation](https://img.shields.io/stackexchange/superuser/r/1446497?style=flat)  
-![matlab-answers-rank](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api-7f4la.ondigitalocean.app%2Fapi%2Fmatlab%2Fanswers)
-![matlab-answers-reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api-7f4la.ondigitalocean.app%2Fapi%2Fmatlab%2Fanswers%2Freputation)  
-![matlab-fileexchange-rank](https://img.shields.io/endpoint?style=flat&&url=https%3A%2F%2Fmystats-api-7f4la.ondigitalocean.app%2Fapi%2Fmatlab%2Ffileexchange)
-![matlab-fileexchange-reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api-7f4la.ondigitalocean.app%2Fapi%2Fmatlab%2Ffileexchange%2Freputation)  
-![matlab-fileexchange-average-rating](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api-7f4la.ondigitalocean.app%2Fapi%2Fmatlab%2Ffileexchange%2FaverageRating)
-![matlab-fileexchange-contributions](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api-7f4la.ondigitalocean.app%2Fapi%2Fmatlab%2Ffileexchange%2Fcontributions)
-![matlab-fileexchange-downloads](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api-7f4la.ondigitalocean.app%2Fapi%2Fmatlab%2Ffileexchange%2Fdownloads)  
-![matlab-cody-rank](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api-7f4la.ondigitalocean.app%2Fapi%2Fmatlab%2Fcody)
-![matlab-cody-score](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmystats-api-7f4la.ondigitalocean.app%2Fapi%2Fmatlab%2Fcody%2Fscore)  
+![matlab-answers-rank](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Fanswers)
+![matlab-answers-reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Fanswers%2Freputation)  
+![matlab-fileexchange-rank](https://img.shields.io/endpoint?style=flat&&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange)
+![matlab-fileexchange-reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange%2Freputation)  
+![matlab-fileexchange-average-rating](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange%2FaverageRating)
+![matlab-fileexchange-contributions](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange%2Fcontributions)
+![matlab-fileexchange-downloads](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange%2Fdownloads)  
+![matlab-cody-rank](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Fcody)
+![matlab-cody-score](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Fcody%2Fscore)  
 
 ### Current objectives
 🔭 I’m currently working on Sensor Simulation Service  
