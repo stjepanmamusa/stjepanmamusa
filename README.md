@@ -11,15 +11,15 @@ _These are here mainly for the sake of testing a hobby project_ [mystats-api](ht
 ![stackoverflow reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fstackexchange%2Fstackoverflow%2Freputation)
 ![electronics reputation](https://img.shields.io/stackexchange/electronics/r/158180?style=flat)
 ![super user reputation](https://img.shields.io/stackexchange/superuser/r/1446497?style=flat)  
-![matlab-answers-rank](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Fanswers)
-![matlab-answers-reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Fanswers%2Freputation)  
+![matlab-answers-rank](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Fanswers-rank)
+![matlab-answers-reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Fanswers-reputation)  
 ![matlab-fileexchange-rank](https://img.shields.io/endpoint?style=flat&&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange)
-![matlab-fileexchange-reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange%2Freputation)  
-![matlab-fileexchange-average-rating](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange%2FaverageRating)
-![matlab-fileexchange-contributions](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange%2Fcontributions)
-![matlab-fileexchange-downloads](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange%2Fdownloads)  
-![matlab-cody-rank](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Fcody)
-![matlab-cody-score](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Fcody%2Fscore)  
+![matlab-fileexchange-reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange-reputation) 
+![matlab-fileexchange-average-rating](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange-avg-rating)
+![matlab-fileexchange-contributions](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange-contributions)
+![matlab-fileexchange-downloads](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange-downloads)  
+![matlab-cody-rank](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab-cody)
+![matlab-cody-score](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Fcody-score)  
 
 ### Current objectives
 🔭 I’m currently working on Sensor Simulation Service  
