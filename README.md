@@ -13,7 +13,7 @@ _These are here mainly for the sake of testing a hobby project_ [mystats-api](ht
 ![super user reputation](https://img.shields.io/stackexchange/superuser/r/1446497?style=flat)  
 ![matlab-answers-rank](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Fanswers-rank)
 ![matlab-answers-reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Fanswers-reputation)  
-![matlab-fileexchange-rank](https://img.shields.io/endpoint?style=flat&&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange)
+![matlab-fileexchange-rank](https://img.shields.io/endpoint?style=flat&&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange-rank)
 ![matlab-fileexchange-reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange-reputation) 
 ![matlab-fileexchange-average-rating](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange-avg-rating)
 ![matlab-fileexchange-contributions](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange-contributions)
