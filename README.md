@@ -18,7 +18,11 @@ _These are here mainly for the sake of testing a hobby project_ [mystats-api](ht
 ![matlab-fileexchange-average-rating](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange-avg-rating)
 ![matlab-fileexchange-contributions](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange-contributions)
 ![matlab-fileexchange-downloads](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange-downloads)  
-![matlab-cody-score](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Fcody-score)  
+![matlab-cody-score](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Fcody-score)
+
+[![wakatime](https://wakatime.com/badge/github/smamusa/exchange-rate-scraper.svg)](https://wakatime.com/badge/github/smamusa/exchange-rate-scraper)
+
+Time spent on [exchange-rate-scraper](https://github.com/smamusa/exchange-rate-scraper)  since adding the project to 🕒 Wakatime
 
 ### Current objectives
 🔭 I’m currently working on Sensor Simulation Service  
