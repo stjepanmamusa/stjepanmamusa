@@ -44,3 +44,12 @@ Here are some ideas to get you started:
 -->
 
 _Bone fire GIF is the work of_ [Joe Williamson](http://joecreates.co.uk/art/)
+
+
+### Links to projects done at University Department of Professional Studies
+- [Seminar - Mehatronika (Mechatronics)](https://github.com/smamusa/Seminar-Mehatronika)
+- [Seminar - Elektroakustika (Electroacustics)](https://github.com/smamusa/Seminar-Elektroakustika))
+
+Organizational projects are extension to these legacy ones, since most essays were made as PoCs only.
+
+Further improvements will be done in scope of SOSS organization, PoCs will still be made as personal repositories.
