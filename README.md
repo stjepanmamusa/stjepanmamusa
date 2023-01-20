@@ -25,8 +25,9 @@ _These are here mainly for the sake of testing a hobby project_ [mystats-api](ht
 Time spent on [exchange-rate-scraper](https://github.com/smamusa/exchange-rate-scraper)  since adding the project to 🕒 Wakatime
 
 ### Current objectives
-🔭 I’m currently working on Sensor Simulation Service  
-🌱 I’m currently learning TypeScript
+- 🔭 ~~I’m currently working on Sensor Simulation Service~~ (POSTPONED)
+- 🌱 ~~I’m currently learning TypeScript~~ (POSTPONED)
+- 🌱 I’m currently learning web scraping with Java ([exchange-rate-scraper](https://github.com/smamusa/exchange-rate-scraper))
 
 <!--
 **smamusa/smamusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
