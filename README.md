@@ -3,11 +3,11 @@
 > Rest here weary traveler, for great adventures lie ahead...  
 _Unknown_  
 ### Stats
-_These are here mainly for the sake of testing a hobby project_ [mystats-api](https://github.com/smamusa/mystats-api)  
+_These are here mainly for the sake of testing a hobby project_ [mystats-api](https://github.com/stjepanmamusa/mystats-api)  
   
 ![mystats-api](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi)
-![followers](https://img.shields.io/github/followers/smamusa?style=flat)
-![profile views](https://komarev.com/ghpvc/?username=smamusa&style=flat)  
+![followers](https://img.shields.io/github/followers/stjepanmamusa?style=flat)
+![profile views](https://komarev.com/ghpvc/?username=stjepanmamusa&style=flat)  
 ![stackoverflow reputation](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fstackoverflow%2Freputation)
 ![electronics reputation](https://img.shields.io/stackexchange/electronics/r/158180?style=flat)
 ![super user reputation](https://img.shields.io/stackexchange/superuser/r/1446497?style=flat)  
@@ -20,17 +20,17 @@ _These are here mainly for the sake of testing a hobby project_ [mystats-api](ht
 ![matlab-fileexchange-downloads](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange-downloads)  
 ![matlab-cody-score](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Fcody-score)
 
-[![wakatime](https://wakatime.com/badge/github/smamusa/exchange-rate-scraper.svg)](https://wakatime.com/badge/github/smamusa/exchange-rate-scraper)
+[![wakatime](https://wakatime.com/badge/github/stjepanmamusa/exchange-rate-scraper.svg)](https://wakatime.com/badge/github/stjepanmamusa/exchange-rate-scraper)
 
-Time spent on [exchange-rate-scraper](https://github.com/smamusa/exchange-rate-scraper)  since adding the project to 🕒 Wakatime
+Time spent on [exchange-rate-scraper](https://github.com/stjepanmamusa/exchange-rate-scraper)  since adding the project to 🕒 Wakatime
 
 ### Current objectives
 - 🔭 ~~I’m currently working on Sensor Simulation Service~~ (POSTPONED)
 - 🌱 ~~I’m currently learning TypeScript~~ (POSTPONED)
-- 🌱 I’m currently learning web scraping with Java ([exchange-rate-scraper](https://github.com/smamusa/exchange-rate-scraper))
+- 🌱 I’m currently learning web scraping with Java ([exchange-rate-scraper](https://github.com/stjepanmamusa/exchange-rate-scraper))
 
 <!--
-**smamusa/smamusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**stjepanmamusa/stjepanmamusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -48,8 +48,8 @@ _Bone fire GIF is the work of_ [Joe Williamson](http://joecreates.co.uk/art/)
 
 
 ### Links to projects done at University Department of Professional Studies
-- [Seminar - Mehatronika (Mechatronics)](https://github.com/smamusa/Seminar-Mehatronika)
-- [Seminar - Elektroakustika (Electroacustics)](https://github.com/smamusa/Seminar-Elektroakustika)
+- [Seminar - Mehatronika (Mechatronics)](https://github.com/stjepanmamusa/Seminar-Mehatronika)
+- [Seminar - Elektroakustika (Electroacustics)](https://github.com/stjepanmamusa/Seminar-Elektroakustika)
 
 Organizational projects are extension to these legacy ones, since most essays were made as PoCs only.
 
