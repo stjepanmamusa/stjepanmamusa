@@ -20,7 +20,7 @@ _These are here mainly for the sake of testing a hobby project_ [mystats-api](ht
 ![matlab-fileexchange-downloads](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Ffileexchange-downloads)  
 ![matlab-cody-score](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmy-statsapi.azurewebsites.net%2Fapi%2Fmatlab%2Fcody-score)
 
-[![wakatime](https://wakatime.com/badge/github/stjepanmamusa/exchange-rate-scraper.svg)](https://wakatime.com/badge/github/stjepanmamusa/exchange-rate-scraper)
+[![wakatime](https://wakatime.com/badge/user/dec75a58-cfdd-471b-91aa-96e43441358b/project/f462bd1e-a5cf-40c4-ad10-e38dee49b885.svg)](https://wakatime.com/badge/user/dec75a58-cfdd-471b-91aa-96e43441358b/project/f462bd1e-a5cf-40c4-ad10-e38dee49b885)
 
 Time spent on [exchange-rate-scraper](https://github.com/stjepanmamusa/exchange-rate-scraper)  since adding the project to 🕒 Wakatime
 
